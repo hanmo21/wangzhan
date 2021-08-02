@@ -7,6 +7,14 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20210719-1.jpg" caption="蹦床 2021-07-19" >}}
+
+{{< figure src="20210719-2.jpg" caption="爬梯子 2021-07-19" >}}
+
+{{< figure src="20210719-3.jpg" caption="玩沙子 2021-07-19" >}}
+
+{{< figure src="20210707.jpg" caption="爱吃棒棒糖 2021-07-07" >}}
+
 {{< figure src="20210620-1.jpg" caption="擂鼓 2021-06-20" >}}
 
 {{< figure src="20210620-2.jpg" caption="跟妈妈玩耍 2021-06-20" >}}
