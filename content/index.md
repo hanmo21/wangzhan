@@ -7,6 +7,8 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20210908.jpg" caption="真开心 2021-09-08" >}}
+
 {{< figure src="20210901.jpg" caption="第一天上学 2021-09-01" >}}
 
 {{< figure src="20210719-1.jpg" caption="蹦床 2021-07-19" >}}
